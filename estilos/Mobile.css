@@ -1,2 +1,18 @@
 @charset "UTF-8";
 
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    height: 98vh;
+    background-color: purple;
+    
+}
+
+main {
+    display: block;
+    margin: auto;
+}
